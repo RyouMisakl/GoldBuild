@@ -1,0 +1,1283 @@
+commit 36d366da588eb89ef4dc0ad71d7dd9c47c8774a0
+Merge: af0c2b9 650679b
+Author: MDS\darren.lit7358 <kitemax243@gmail.com>
+Date:   Thu Aug 15 16:53:45 2019 +1200
+
+    merge and fix player lock on bug when boss dies
+
+commit 650679b0c3aeb683c89dbabd9a55c214422d5134
+Author: GeorginaWang <georginawxy@gmail.com>
+Date:   Thu Aug 15 16:42:58 2019 +1200
+
+    Tutorial Level
+
+commit af0c2b97e09e487697cf3aa23a4a0a67f2032f40
+Author: MDS\darren.lit7358 <kitemax243@gmail.com>
+Date:   Thu Aug 15 16:21:15 2019 +1200
+
+    fix up some small bugs
+
+commit 9771248a3551fb65f055f40451fe856d3c0b68a2
+Author: GeorginaWang <georginawxy@gmail.com>
+Date:   Thu Aug 15 16:17:39 2019 +1200
+
+    Lighting changed
+
+commit 7a2a8ef1569877f1a41986909ddd46bdc10cb77f
+Author: MDS\darren.lit7358 <kitemax243@gmail.com>
+Date:   Thu Aug 15 13:25:04 2019 +1200
+
+    fix throw off bug
+
+commit 0943698c511f36e288e5b3161fd77a20365bccf5
+Author: GeorginaWang <georginawxy@gmail.com>
+Date:   Thu Aug 15 11:28:22 2019 +1200
+
+    Skylight changed
+
+commit 09c7181ac07d8b6a72bcdd2129e294d3302be378
+Merge: 954bf7c db1ff02
+Author: MDS\darren.lit7358 <kitemax243@gmail.com>
+Date:   Thu Aug 15 10:45:36 2019 +1200
+
+    all portal now working
+
+commit 954bf7cf9ff3f0cda9ab678e08a20cd97519d366
+Author: MDS\darren.lit7358 <kitemax243@gmail.com>
+Date:   Thu Aug 15 10:29:58 2019 +1200
+
+    portal changes
+
+commit db1ff02f77e768874cb5cc609d965140a2265679
+Author: MDS\luke.mcc6424 <luke.henry.mcc@gmail.com>
+Date:   Thu Aug 15 10:20:42 2019 +1200
+
+    grass
+
+commit 249f2e51777ea6cdc5539472523d31cdb0a07153
+Merge: 89456f7 5496403
+Author: MDS\darren.lit7358 <kitemax243@gmail.com>
+Date:   Thu Aug 15 10:13:51 2019 +1200
+
+    no message
+
+commit 89456f7cd41976a33f02a63690e314feb3874da1
+Merge: b8cace5 0b53a69
+Author: MDS\darren.lit7358 <kitemax243@gmail.com>
+Date:   Thu Aug 15 10:13:01 2019 +1200
+
+    added dissolve to first boss
+
+commit 54964033286a0fe96bca9f09507d2197eb78dd97
+Author: GeorginaWang <georginawxy@gmail.com>
+Date:   Thu Aug 15 10:05:45 2019 +1200
+
+    staircase changed
+
+commit 7547f06eb879079bc67ba2a2dfe0fbcb697da773
+Author: MDS\luke.mcc6424 <luke.henry.mcc@gmail.com>
+Date:   Thu Aug 15 09:50:48 2019 +1200
+
+    hi
+
+commit 0b53a6938c42c8d8983a937b02aa0587775d640e
+Author: GeorginaWang <georginawxy@gmail.com>
+Date:   Thu Aug 15 09:43:53 2019 +1200
+
+    HUD TUTORIAL Level done
+
+commit b8cace56f960f06ce7c90fdf7ca92ddc3420710d
+Merge: 9c8473e e9554d8
+Author: HarryFanHe <jiefei28@gmail.com>
+Date:   Thu Aug 15 03:09:48 2019 +1200
+
+    Merge branch 'luke's_test' of https://github.com/RyouMisakl/Game into Harry
+    
+    # Conflicts:
+    #       Content/ThirdPersonBP/Maps/Level-01/Outside03.umap
+    #       Content/ThirdPersonBP/Maps/Level-01/initialShadingGroup1.uasset
+    #       Content/ThirdPersonBP/Maps/Level-01/rainforest_assets/tytytyty.uasset
+
+commit 9c8473e3654ec8c85f5580f9029afeb18f04bcfe
+Merge: c18a1ca 2cc064d
+Author: HarryFanHe <jiefei28@gmail.com>
+Date:   Wed Aug 14 21:00:47 2019 +1200
+
+    Merge branch 'Alex' of https://github.com/RyouMisakl/Game into Harry
+
+commit e9554d88227746b29ae10d5a392f3ed79c60c40c
+Author: MDS\luke.mcc6424 <luke.henry.mcc@gmail.com>
+Date:   Wed Aug 14 20:34:02 2019 +1200
+
+    lighting
+
+commit 689a223429a385464b2b28d0dc9bb609fdacb3ca
+Author: MDS\luke.mcc6424 <luke.henry.mcc@gmail.com>
+Date:   Wed Aug 14 20:25:41 2019 +1200
+
+    placing more objects
+
+commit 9d5354aacefcdd97cea50889127fe839cfe985ee
+Author: GeorginaWang <georginawxy@gmail.com>
+Date:   Wed Aug 14 17:44:49 2019 +1200
+
+    Skybox done HUD
+
+commit 7bae5b2a032d25bc9358b4cb10773cd6f270c0ef
+Author: GeorginaWang <georginawxy@gmail.com>
+Date:   Wed Aug 14 17:36:47 2019 +1200
+
+    HUD & Tutorial
+
+commit c18a1ca222886acda2908fe7a94d9dfe13c9aad4
+Author: MDS\Jiefei.He7542 <jiefei.he7542@mediadesignschool.nz>
+Date:   Wed Aug 14 17:34:45 2019 +1200
+
+    vfx upup
+
+commit 2cc064d637d973d94ec38f0f7c710501bf3daf4f
+Author: AlexFan <sijin.fan@gmail.com>
+Date:   Wed Aug 14 17:33:57 2019 +1200
+
+    no message
+
+commit 2d82fca66811ae5314f975853a7a1a6f481aff08
+Author: MDS\Jiefei.He7542 <jiefei.he7542@mediadesignschool.nz>
+Date:   Wed Aug 14 17:20:37 2019 +1200
+
+    Portal vfx + dissolve(dead) vfx
+
+commit 6412ca2fc77d70c7e9695759e40f6d26bc6266e8
+Author: AlexFan <sijin.fan@gmail.com>
+Date:   Wed Aug 14 17:16:20 2019 +1200
+
+    dsdasdasdasda
+
+commit eb99fd5e787e532fb8c3c20ffb3ab7f34946f932
+Author: MDS\luke.mcc6424 <luke.henry.mcc@gmail.com>
+Date:   Wed Aug 14 16:50:01 2019 +1200
+
+    placed some grass
+
+commit 388f820e8da851f2bf6d9bbf79c3cdf8b73e08d4
+Merge: 8d19d80 24a4e01
+Author: AlexFan <sijin.fan@gmail.com>
+Date:   Wed Aug 14 16:35:24 2019 +1200
+
+    Merge branch 'develop' of https://github.com/RyouMisakl/Game into Alex
+
+commit 24a4e019c32fe4434a86bae03aea21d23ce98201
+Author: MDS\darren.lit7358 <kitemax243@gmail.com>
+Date:   Wed Aug 14 16:34:02 2019 +1200
+
+    2nd boss is now able to fight
+
+commit bb20d8075ca258f184837e41327c8858e58cd4bf
+Author: MDS\luke.mcc6424 <luke.henry.mcc@gmail.com>
+Date:   Wed Aug 14 16:31:28 2019 +1200
+
+    fixing stuff
+
+commit e7eaa7fc7056888a7d5843df38a27cd67c9ced65
+Author: GeorginaWang <georginawxy@gmail.com>
+Date:   Wed Aug 14 16:14:41 2019 +1200
+
+    Tutorial
+
+commit fef890cb9283f83c2833b8e2dcfb18a068e09b62
+Author: GeorginaWang <georginawxy@gmail.com>
+Date:   Wed Aug 14 16:13:35 2019 +1200
+
+    HUD & TUTORIAL LEVEL
+
+commit b81f8fd724e0d59ff86033fad95885b596ce908b
+Author: GeorginaWang <georginawxy@gmail.com>
+Date:   Wed Aug 14 16:13:14 2019 +1200
+
+    HUD & Tutorial level
+
+commit 2c03f7f9ae5fb1b7d1fc1afa87b28976b0a875f4
+Author: MDS\darren.lit7358 <kitemax243@gmail.com>
+Date:   Wed Aug 14 15:43:57 2019 +1200
+
+    moveset animation function added
+
+commit 8d19d80eb820bea1f886ee794b3e52f9229f68a2
+Author: AlexFan <sijin.fan@gmail.com>
+Date:   Wed Aug 14 15:35:50 2019 +1200
+
+    Idle
+
+commit 655358fd4c74a4f924b554da47570a1507755230
+Author: GeorginaWang <georginawxy@gmail.com>
+Date:   Wed Aug 14 11:58:18 2019 +1200
+
+    HUD
+
+commit 57a81a432136c3932e97c31f2c8280e0ef233e57
+Merge: 97ba7f9 3f6aea9
+Author: GeorginaWang <georginawxy@gmail.com>
+Date:   Wed Aug 14 11:11:44 2019 +1200
+
+    HUD
+
+commit 97ba7f9ecc3ccb04e824a4dd74dc4b1a08fd447a
+Author: GeorginaWang <georginawxy@gmail.com>
+Date:   Wed Aug 14 10:21:46 2019 +1200
+
+    HUD
+
+commit 9ccee62128350fadcff68078047a20e0a7f44226
+Merge: 443e3cd 46863bb
+Author: GeorginaWang <georginawxy@gmail.com>
+Date:   Wed Aug 14 10:21:16 2019 +1200
+
+    Pull from develop
+
+commit 443e3cdca59be73df4d2d750d06207b33078e580
+Author: GeorginaWang <georginawxy@gmail.com>
+Date:   Wed Aug 14 10:14:19 2019 +1200
+
+    HUD
+
+commit 46863bb8fd51db7d6d6c936f49c63e26ca3781f3
+Merge: f01ab80 43d0590
+Author: RyouMisakl <33336762+RyouMisakl@users.noreply.github.com>
+Date:   Tue Aug 13 23:11:08 2019 +0800
+
+    Merge branch 'Harry' of https://github.com/RyouMisakl/Game into develop
+    
+    # Conflicts:
+    #       Content/SecondBoss/Boss2_Move/Boss2_Run.uasset
+    #       Content/ThirdPersonBP/Maps/Level-01/Outside03.umap
+    #       Content/ThirdPersonBP/Maps/Levels/Level_A.umap
+
+commit f01ab8098bc2db60e2a3c454ab7ac53e95d8da53
+Merge: df71925 858fcbc
+Author: RyouMisakl <33336762+RyouMisakl@users.noreply.github.com>
+Date:   Tue Aug 13 19:04:05 2019 +0800
+
+    Merge branch 'develop' of https://github.com/RyouMisakl/Game into develop
+    
+    # Conflicts:
+    #       Content/SecondBoss/Boss2_SpecialAttacks/Boss2_JumpStab1.uasset
+    #       Content/SecondBoss/Boss2_SpecialAttacks/Boss2_JumpStab2.uasset
+    #       Content/SecondBoss/Boss2_SpecialAttacks/Boss2_Skill1.uasset
+    #       Content/SecondBoss/Boss2_SpecialAttacks/Boss2_Skill2.uasset
+    #       Content/ThirdPersonBP/Maps/Level-01/Outside03.umap
+    #       Content/ThirdPersonBP/Maps/Levels/Tutorial.umap
+
+commit df719250117d43796f47ef9d25401f9d6a659851
+Merge: 97245a7 00a9f4a
+Author: RyouMisakl <33336762+RyouMisakl@users.noreply.github.com>
+Date:   Tue Aug 13 18:45:03 2019 +0800
+
+    Merge branch 'Harry' of https://github.com/RyouMisakl/Game into develop
+    
+    # Conflicts:
+    #       Content/ThirdPersonBP/Maps/Level-01/Outside03.umap
+
+commit 858fcbce7e24fe5eb989bd6d24e3dd7c130003f3
+Author: AlexFan <sijin.fan@gmail.com>
+Date:   Tue Aug 13 16:40:38 2019 +1200
+
+    sdasdasdasdasd
+
+commit b3ba8b2a4805dd7f5e3970ce37f009a34b06987d
+Author: GeorginaWang <georginawxy@gmail.com>
+Date:   Tue Aug 13 16:32:56 2019 +1200
+
+    HUD rodo
+
+commit d1b3e66cc7419d2afe157bf1e1b61f0f1c3f8389
+Author: MDS\darren.lit7358 <kitemax243@gmail.com>
+Date:   Tue Aug 13 16:25:29 2019 +1200
+
+    all fixed
+
+commit 43d0590c40fe4ab39952134b708699ba34c334ee
+Author: MDS\Jiefei.He7542 <jiefei.he7542@mediadesignschool.nz>
+Date:   Tue Aug 13 15:46:56 2019 +1200
+
+    BasicAttackVFX
+
+commit ef88998cd1ac6855a0c8c81affb7d87f1d60c737
+Author: MDS\Jiefei.He7542 <jiefei.he7542@mediadesignschool.nz>
+Date:   Tue Aug 13 15:38:58 2019 +1200
+
+    fIxed lighting vfx + boss2 basic attack vfx + modify healing vfx
+
+commit 4708880dcdd53c72e806b86df59d43d1436afdda
+Author: MDS\darren.lit7358 <kitemax243@gmail.com>
+Date:   Tue Aug 13 15:37:34 2019 +1200
+
+    now dodge can go through boss and now blueprint is back to old setting
+
+commit ea01e7bb8e8cfabdfe19ab5fafa86d93aea64aaf
+Author: MDS\Jiefei.He7542 <jiefei.he7542@mediadesignschool.nz>
+Date:   Tue Aug 13 14:41:04 2019 +1200
+
+    Lighting VFX done
+
+commit 49b2bdca50de91b6cd16bf02a46e6f6f1e422a9f
+Author: AlexFan <sijin.fan@gmail.com>
+Date:   Tue Aug 13 14:21:20 2019 +1200
+
+    change char rotation
+
+commit 8f3b2703af17a5821a172bd3a5e5baac882e0496
+Merge: 18caa20 c03c9cb
+Author: AlexFan <sijin.fan@gmail.com>
+Date:   Tue Aug 13 14:14:11 2019 +1200
+
+    finally got the lastest blueprint
+
+commit 18caa2075608e8fe7831ce06213c01312f72efed
+Merge: 1d4a6e9 24ce191
+Author: AlexFan <sijin.fan@gmail.com>
+Date:   Tue Aug 13 14:12:34 2019 +1200
+
+    no message
+
+commit c03c9cbefc38406d23b4c533d512baeccaa1ea4e
+Merge: 24ce191 1d4a6e9
+Author: MDS\darren.lit7358 <kitemax243@gmail.com>
+Date:   Tue Aug 13 14:11:50 2019 +1200
+
+    never pull from alex
+
+commit 24ce19193aa0ce65adf70134271ac4d1711070cc
+Merge: 7c007a8 3347b8a
+Author: MDS\darren.lit7358 <kitemax243@gmail.com>
+Date:   Tue Aug 13 14:06:12 2019 +1200
+
+    push for alex
+
+commit 1d4a6e9367ec48bafba1299a80eb085703dfd349
+Merge: b4695ec 7c007a8
+Author: AlexFan <sijin.fan@gmail.com>
+Date:   Tue Aug 13 13:56:12 2019 +1200
+
+    Merge branch 'develop' of https://github.com/RyouMisakl/Game into Alex
+
+commit b4695ec8466b6b72977b8285fe15f369b7feda24
+Author: AlexFan <sijin.fan@gmail.com>
+Date:   Tue Aug 13 13:55:05 2019 +1200
+
+    no message
+
+commit eb9905c8bce12330eee4e763c272b8eed2e2e37a
+Merge: e8ea9e2 3347b8a
+Author: AlexFan <sijin.fan@gmail.com>
+Date:   Tue Aug 13 13:51:27 2019 +1200
+
+    Merge branch 'Harry' of https://github.com/RyouMisakl/Game into Alex
+
+commit 3347b8aff2ca873a5df47c09c6987ae018922bd2
+Author: MDS\Jiefei.He7542 <jiefei.he7542@mediadesignschool.nz>
+Date:   Tue Aug 13 13:47:27 2019 +1200
+
+    no message
+
+commit b6cd579d8e2c21c03428a3c1b257398f4ea5b0d0
+Author: MDS\Jiefei.He7542 <jiefei.he7542@mediadesignschool.nz>
+Date:   Tue Aug 13 13:46:25 2019 +1200
+
+    Nooooooo!
+
+commit 7c007a8111655636ed71c28bac47ba0b7606ad75
+Author: MDS\darren.lit7358 <kitemax243@gmail.com>
+Date:   Tue Aug 13 13:38:16 2019 +1200
+
+    blendspace remaked
+
+commit e8ea9e2a8cc079e368a1989f327e74850fff876c
+Merge: 00a9f4a 97245a7
+Author: AlexFan <sijin.fan@gmail.com>
+Date:   Tue Aug 13 11:51:56 2019 +1200
+
+    Merge branch 'develop' of https://github.com/RyouMisakl/Game into Alex
+    
+    # Conflicts:
+    #       Content/ThirdPersonBP/Maps/Level-01/Outside03.umap
+
+commit 00a9f4a327f9531c3606f819ee0d26277c9934e3
+Merge: 2355e87 b2b6f5f
+Author: HarryFanHe <jiefei28@gmail.com>
+Date:   Tue Aug 13 04:45:47 2019 +1200
+
+    Special attack lighting vfx done
+
+commit 97245a7321710710c4db9eaf51ce7304d9123012
+Author: RyouMisakl <33336762+RyouMisakl@users.noreply.github.com>
+Date:   Tue Aug 13 00:43:38 2019 +0800
+
+    2nd boss grab done
+
+commit 2355e87f0cb883146616aae8572f25929cc08413
+Author: HarryFanHe <jiefei28@gmail.com>
+Date:   Tue Aug 13 02:42:47 2019 +1200
+
+    no message
+
+commit b2b6f5f1220576b724d60fd86a9fbcfe668b030b
+Author: RyouMisakl <33336762+RyouMisakl@users.noreply.github.com>
+Date:   Mon Aug 12 22:41:28 2019 +0800
+
+    readded 2nd boss
+
+commit 2f61c2080e11ffcbedc0a3f51c565227a6f29d1d
+Merge: 293c4e3 f7f3bde
+Author: HarryFanHe <jiefei28@gmail.com>
+Date:   Tue Aug 13 02:30:10 2019 +1200
+
+    Merge branch 'develop' of https://github.com/RyouMisakl/Game into Harry
+
+commit f7f3bdeee9e0ae3c25e71a457d36cbfa73c275f3
+Author: RyouMisakl <33336762+RyouMisakl@users.noreply.github.com>
+Date:   Mon Aug 12 22:21:52 2019 +0800
+
+    no message
+
+commit 293c4e30754b8f153df9cfcda02687a33e05aec1
+Merge: 8afb0fe 65cd8ca
+Author: HarryFanHe <jiefei28@gmail.com>
+Date:   Tue Aug 13 01:10:57 2019 +1200
+
+    Merge branch 'develop' of https://github.com/RyouMisakl/Game into Harry
+    
+    # Conflicts:
+    #       Content/Ronin_Animation/Ronin_Model/lambert1.uasset
+    #       Content/SecondBoss/SecondBossModel/Boss2_Model_Skeleton.uasset
+
+commit 8afb0feaec64a4c35c08c05fe863b77edb07db16
+Author: HarryFanHe <jiefei28@gmail.com>
+Date:   Tue Aug 13 01:09:52 2019 +1200
+
+    no message
+
+commit 5e916069f1383b25a0c775ed2f5f6a711147e9ef
+Author: HarryFanHe <jiefei28@gmail.com>
+Date:   Tue Aug 13 00:45:42 2019 +1200
+
+    no message
+
+commit 65cd8caaeaa658aa497b831f30e488f2ac8d28e4
+Merge: ba5a16d 49a2a04
+Author: RyouMisakl <33336762+RyouMisakl@users.noreply.github.com>
+Date:   Mon Aug 12 20:34:22 2019 +0800
+
+    Merge branch 'develop' of https://github.com/RyouMisakl/Game into develop
+    
+    # Conflicts:
+    #       Content/EnvironmentAssets/Ground_Tile.uasset
+    #       Content/EnvironmentAssets/Platform.uasset
+    #       Content/EnvironmentAssets/Platform_B.uasset
+    #       Content/EnvironmentAssets/Stairs.uasset
+    #       Content/EnvironmentAssets/lambert1.uasset
+    #       Content/Level_01/Materials/M_PlatformTile.uasset
+    #       Content/Player/lambert1.uasset
+    #       Content/SecondBoss/Boss2Attacks/Boss2_Attack1.uasset
+    #       Content/SecondBoss/Boss2Attacks/Boss2_Attack3B.uasset
+    #       Content/SecondBoss/Boss2Attacks/Boss2_Dash1.uasset
+    #       Content/SecondBoss/Boss2Attacks/Boss2_Dash2.uasset
+    #       Content/SecondBoss/Boss2_Move/Boss2_Idle.uasset
+    #       Content/SecondBoss/SecondBossModel/Boss2_Model_Skeleton.uasset
+    #       Content/ThirdPersonBP/Maps/Level-01/Outside03.umap
+    #       Content/ThirdPersonBP/Maps/Level-01/rainforest_assets/firething.uasset
+    #       Content/ThirdPersonBP/Maps/Level-01/rainforest_assets/initialShadingGroup.uasset
+    #       Content/ThirdPersonBP/Maps/Level-01/rainforest_assets/initialShadingGroup1.uasset
+    #       Content/ThirdPersonBP/Maps/Level-01/rainforest_assets/large_stone_pCube1.uasset
+    #       Content/ThirdPersonBP/Maps/Level-01/rainforest_assets/large_stone_pCube2.uasset
+    #       Content/ThirdPersonBP/Maps/Level-01/rainforest_assets/large_stone_pCube3.uasset
+    #       Content/ThirdPersonBP/Maps/Level-01/rainforest_assets/large_stone_pCube4.uasset
+    #       Content/ThirdPersonBP/Maps/Levels/Hud.umap
+    #       Content/ThirdPersonBP/Maps/Levels/Level_A.umap
+    #       Content/ThirdPersonBP/Maps/Levels/Tutorial.umap
+
+commit ba5a16dd1bbba4052586aeae22a9347878486179
+Merge: 0a1e1b1 8dfa437
+Author: RyouMisakl <33336762+RyouMisakl@users.noreply.github.com>
+Date:   Mon Aug 12 20:33:18 2019 +0800
+
+    no message
+
+commit 3f6aea9b35d99c584eb49c1cb677af9b7f44d0f3
+Author: MDS\luke.mcc6424 <luke.henry.mcc@gmail.com>
+Date:   Mon Aug 12 19:22:29 2019 +1200
+
+    flat terrain, more grass, a bridge. Will add more objects either tomorrow or wednesday morning.
+
+commit 1f619f61fe447424c20276f55f9a3501965375cf
+Author: MDS\Jiefei.He7542 <jiefei.he7542@mediadesignschool.nz>
+Date:   Mon Aug 12 17:39:14 2019 +1200
+
+    little change
+
+commit 49a2a045ef4bbd89d6232ab84c3a8e0629d20de1
+Merge: d37894c 0bc8cb8
+Author: MDS\darren.lit7358 <kitemax243@gmail.com>
+Date:   Mon Aug 12 17:38:05 2019 +1200
+
+    2nd boss without damaging player
+
+commit d37894c728e00b82aa8cb2bd4e40d6b50518ccf8
+Merge: 945fc3e 214b83a
+Author: MDS\darren.lit7358 <kitemax243@gmail.com>
+Date:   Mon Aug 12 17:33:43 2019 +1200
+
+    no message
+
+commit 6e324645d039fbe0a9f7a0f811f00c4f6d1b9b31
+Author: MDS\Jiefei.He7542 <jiefei.he7542@mediadesignschool.nz>
+Date:   Mon Aug 12 17:32:08 2019 +1200
+
+    lighting VFX 2
+
+commit 0bc8cb82101001e21181ef441823b3c0aebaa70e
+Author: MDS\luke.mcc6424 <luke.henry.mcc@gmail.com>
+Date:   Mon Aug 12 17:30:38 2019 +1200
+
+    flat terrain
+
+commit 945fc3ea1f75a1afb6457f6237febfbb9a0c80a1
+Merge: a2c687c ababe1f
+Author: MDS\darren.lit7358 <kitemax243@gmail.com>
+Date:   Mon Aug 12 17:18:14 2019 +1200
+
+    no message
+
+commit 214b83afcfffd3faf77bdc781c67e4896bb37684
+Author: AlexFan <sijin.fan@gmail.com>
+Date:   Mon Aug 12 17:16:25 2019 +1200
+
+    no message
+
+commit e18c73c038e9e6a0217bddcf05bca23267ec5d3f
+Merge: ababe1f a2c687c
+Author: AlexFan <sijin.fan@gmail.com>
+Date:   Mon Aug 12 17:16:09 2019 +1200
+
+    Merge branch 'develop' of https://github.com/RyouMisakl/Game into Alex
+    
+    # Conflicts:
+    #       Content/Ronin_Animation/Ronin_Model/RoninAnimBlueprint.uasset
+
+commit a2c687c5391ec66287bda8d2fd1d935872139501
+Author: MDS\darren.lit7358 <kitemax243@gmail.com>
+Date:   Mon Aug 12 17:00:25 2019 +1200
+
+    still having abit of overlapping bug for 2nd boss
+
+commit ababe1f0707b7509cbb754b158639c29cdc4592a
+Author: AlexFan <sijin.fan@gmail.com>
+Date:   Mon Aug 12 16:55:24 2019 +1200
+
+    Boss Attack Change
+    Character New Animations
+
+commit efea4710d507653654e48a0bea8d1afef398d85f
+Merge: ebe51d8 0bb9859
+Author: MDS\darren.lit7358 <kitemax243@gmail.com>
+Date:   Mon Aug 12 16:23:58 2019 +1200
+
+    Merge branch 'luke's_test' of https://github.com/RyouMisakl/Game into develop
+
+commit ebe51d83a701dace23922aab335ebf3c9e1922a5
+Merge: e3852d6 64993d2
+Author: MDS\darren.lit7358 <kitemax243@gmail.com>
+Date:   Mon Aug 12 16:22:14 2019 +1200
+
+    2nd boss half done with no special skill or vfx yet
+
+commit 0bb9859ca2f5d292fd95f5eac1faba0b0167d8c2
+Author: MDS\luke.mcc6424 <luke.henry.mcc@gmail.com>
+Date:   Mon Aug 12 16:20:48 2019 +1200
+
+    new terrain + grass asset
+
+commit 9a44895c9f9f605d6bda75a3815463a7d4ae3831
+Author: AlexFan <sijin.fan@gmail.com>
+Date:   Mon Aug 12 15:57:01 2019 +1200
+
+    Player Idle and Backrun
+
+commit 4f071842bffff78d10e9a47d4b74d4d850b62ef9
+Author: AlexFan <sijin.fan@gmail.com>
+Date:   Mon Aug 12 15:44:06 2019 +1200
+
+    Death and stun
+
+commit c536c17597b4e59e263d1005f4793f5405a1c5ed
+Merge: 4401482 e3bd3a6
+Author: AlexFan <sijin.fan@gmail.com>
+Date:   Mon Aug 12 15:39:21 2019 +1200
+
+    Merge branch 'Harry' of https://github.com/RyouMisakl/Game into Alex
+
+commit e3bd3a6291e86bb06f373bb13c23e39d3696edf7
+Author: MDS\Jiefei.He7542 <jiefei.he7542@mediadesignschool.nz>
+Date:   Mon Aug 12 15:06:15 2019 +1200
+
+    lighting vfx
+
+commit 44014823944a2dd9cf668bd0ae73171262265327
+Author: AlexFan <sijin.fan@gmail.com>
+Date:   Mon Aug 12 14:14:14 2019 +1200
+
+    dasdas
+
+commit 706d9774286589b20227cf00a3d2f0518cf03352
+Author: AlexFan <sijin.fan@gmail.com>
+Date:   Mon Aug 12 13:39:22 2019 +1200
+
+    Boss_Idle
+
+commit ee258979c80430f43acf35d0fc78a06d4d3c2091
+Author: AlexFan <sijin.fan@gmail.com>
+Date:   Mon Aug 12 13:01:47 2019 +1200
+
+    dasdasda
+
+commit e3852d66d851e6294eec86a06d99f2b9029b4eaa
+Merge: 6e8514c 608b3a6
+Author: MDS\darren.lit7358 <kitemax243@gmail.com>
+Date:   Mon Aug 12 12:01:12 2019 +1200
+
+    no message
+
+commit 64993d25afb37b4ce5a6ff3c286a034af237d516
+Author: AlexFan <sijin.fan@gmail.com>
+Date:   Mon Aug 12 12:00:22 2019 +1200
+
+    Boss2_Animations
+
+commit 668a9c165d9a2719726d69b9997f9421ef460712
+Author: MDS\Jiefei.He7542 <jiefei.he7542@mediadesignschool.nz>
+Date:   Mon Aug 12 11:46:01 2019 +1200
+
+    change texture of nomral npc
+
+commit 6e8514cae37f4df9cc9105ed4ef5a1ba09259375
+Merge: 0a1e1b1 c7e146b
+Author: MDS\darren.lit7358 <kitemax243@gmail.com>
+Date:   Mon Aug 12 11:40:56 2019 +1200
+
+    georgina merge hud broken
+
+commit a173944e6935417f3d61fdc453661b18dac6a986
+Author: HarryFanHe <jiefei28@gmail.com>
+Date:   Mon Aug 12 09:56:45 2019 +1200
+
+    Lighting VFX
+
+commit 8dfa437e650b3a9d40c618ee53be77dcce1a3744
+Merge: eecbd0f 4005fc9
+Author: AlexFan <sijin.fan@gmail.com>
+Date:   Fri Aug 9 17:22:08 2019 +1200
+
+    Merge branch 'luke's_test' of https://github.com/RyouMisakl/Game into Alex
+    
+    # Conflicts:
+    #       Content/ThirdPersonBP/Maps/Level-01/Outside02.umap
+
+commit 608b3a6f08e525f03e4320743a8855e3b3284339
+Merge: 4005fc9 c7e146b
+Author: MDS\luke.mcc6424 <luke.henry.mcc@gmail.com>
+Date:   Fri Aug 9 16:59:40 2019 +1200
+
+    new level layout, + grass asset
+
+commit 0a1e1b17bacb5582e76613372aa33cca36dcc9d4
+Author: MDS\darren.lit7358 <kitemax243@gmail.com>
+Date:   Fri Aug 9 14:14:06 2019 +1200
+
+    unlocks player lock on when boss dies, boss now spawn a mask when die, portal will be open to sent player back to hud
+
+commit ce5f1c2dbec18414de52ae3d2ad867b6c004dff4
+Author: MDS\darren.lit7358 <kitemax243@gmail.com>
+Date:   Fri Aug 9 13:02:15 2019 +1200
+
+    Easy mode, Normal mode and hard mode added in
+
+commit 4005fc99b7b64dd014b1acaff2af149f069b6090
+Author: MDS\luke.mcc6424 <luke.henry.mcc@gmail.com>
+Date:   Fri Aug 9 10:58:42 2019 +1200
+
+    random level edits, put assets in folder
+
+commit c7e146bf3c4bb95ea4317698fd44912f0486bc3c
+Author: GeorginaWang <georginawxy@gmail.com>
+Date:   Thu Aug 8 18:37:44 2019 +1200
+
+    HUD
+
+commit 74acadd543e7212f2f65064afa8302897c69b175
+Author: GeorginaWang <georginawxy@gmail.com>
+Date:   Thu Aug 8 18:37:28 2019 +1200
+
+    HUD
+
+commit eecbd0fcf33061b41bb826754afb6e9a04a062a5
+Author: AlexFan <sijin.fan@gmail.com>
+Date:   Thu Aug 8 17:27:20 2019 +1200
+
+    Boss2 Model and Animations
+
+commit dae88f2c5ce654f00905183d3b0832eb3c7486bc
+Merge: e76b786 8816059
+Author: MDS\darren.lit7358 <kitemax243@gmail.com>
+Date:   Thu Aug 8 14:33:34 2019 +1200
+
+    saving game data is now working
+
+commit e3f64860412dee69988ecde85dd338b90c88f1e5
+Author: GeorginaWang <georginawxy@gmail.com>
+Date:   Thu Aug 8 13:40:52 2019 +1200
+
+    HUD
+
+commit 4acf5b04355d56304111402bba3f740adf6a7409
+Author: GeorginaWang <georginawxy@gmail.com>
+Date:   Thu Aug 8 13:22:18 2019 +1200
+
+    HUD
+
+commit c254458ba13c0226174b0b796c2750b585d0b564
+Author: GeorginaWang <georginawxy@gmail.com>
+Date:   Thu Aug 8 13:05:10 2019 +1200
+
+    HUD
+
+commit fa99c8e684153c5ab488a80fe0223fe0e199d4c5
+Merge: b425dd3 47bd5ad
+Author: AlexFan <sijin.fan@gmail.com>
+Date:   Thu Aug 8 12:31:35 2019 +1200
+
+    Merge branch 'Georgina' of https://github.com/RyouMisakl/Game into Alex
+
+commit 47bd5ad7addabe335ced3060ed6a203152aceb1d
+Author: GeorginaWang <georginawxy@gmail.com>
+Date:   Thu Aug 8 11:54:50 2019 +1200
+
+    HUD
+
+commit b425dd37dceb965cb7216dde7421d44e2ff4a98f
+Merge: 7a9764d b1b68d8
+Author: AlexFan <sijin.fan@gmail.com>
+Date:   Wed Aug 7 17:03:50 2019 +1200
+
+    Merge branch 'Georgina' of https://github.com/RyouMisakl/Game into Alex
+
+commit b1b68d8c99f7da2980ee69b6cba131bcb3af5047
+Author: GeorginaWang <georginawxy@gmail.com>
+Date:   Wed Aug 7 15:43:27 2019 +1200
+
+    Environment level
+
+commit 2d37c106000a9c6127e649496d0adb8c8e663a61
+Author: GeorginaWang <georginawxy@gmail.com>
+Date:   Wed Aug 7 15:38:37 2019 +1200
+
+    Environment level
+
+commit 973ca7564a54959793cc4c0b35f2ae1dc931760c
+Author: GeorginaWang <georginawxy@gmail.com>
+Date:   Wed Aug 7 15:09:10 2019 +1200
+
+    HUD LEVEL
+
+commit 2a0fb5939f2c308daa8fd7f9dc62f8279f38d47a
+Merge: 9e18a70 e76b786
+Author: GeorginaWang <georginawxy@gmail.com>
+Date:   Wed Aug 7 09:40:17 2019 +1200
+
+    Merge branch 'develop' of https://github.com/RyouMisakl/Game into Georgina
+
+commit 9e18a7096716f77646bbe95cd64739f9cbdd437c
+Author: GeorginaWang <georginawxy@gmail.com>
+Date:   Wed Aug 7 09:39:47 2019 +1200
+
+    LEVEL
+
+commit 7a9764d10af0cef86fb84b4b843d4f591a9ed2b8
+Merge: 8816059 e76b786
+Author: AlexFan <sijin.fan@gmail.com>
+Date:   Tue Aug 6 17:03:28 2019 +1200
+
+    Merge branch 'develop' of https://github.com/RyouMisakl/Game into Alex
+
+commit e76b786707f05d00c3d43e0ee6228778ed49b17f
+Author: MDS\darren.lit7358 <kitemax243@gmail.com>
+Date:   Tue Aug 6 15:23:08 2019 +1200
+
+    UI change placement
+
+commit 535d0517195ae12994502e0abb93ea78c599eff0
+Author: MDS\darren.lit7358 <kitemax243@gmail.com>
+Date:   Tue Aug 6 13:09:13 2019 +1200
+
+    npc with camera change done
+
+commit 86ee52e55a7fb6106dbe56f85b7e4112c088bf0d
+Author: MDS\darren.lit7358 <kitemax243@gmail.com>
+Date:   Tue Aug 6 11:56:56 2019 +1200
+
+    training dummy function complete but parry is not added in yet and npc is half done
+
+commit 8816059e256a4f84ff1a890041733d1bf719556a
+Author: AlexFan <sijin.fan@gmail.com>
+Date:   Tue Aug 6 11:29:18 2019 +1200
+
+    Run
+
+commit 159cad5d3007aed33dbea71bae3650cac97415f9
+Merge: ef93a31 dadc432
+Author: AlexFan <sijin.fan@gmail.com>
+Date:   Tue Aug 6 11:22:29 2019 +1200
+
+    Merge branch 'develop' of https://github.com/RyouMisakl/Game into Alex
+
+commit dadc432612e52acf4fddedcc72440d6ba4ecfc09
+Merge: 388cbb9 2a7103b
+Author: MDS\darren.lit7358 <kitemax243@gmail.com>
+Date:   Mon Aug 5 17:37:00 2019 +1200
+
+    dummy char is half done
+
+commit e04472f3c10618d563180fd603105800ab570666
+Author: GeorginaWang <georginawxy@gmail.com>
+Date:   Mon Aug 5 16:39:11 2019 +1200
+
+    Level_B
+
+commit ef93a315670e9f09206ad9f11a59ab78c14e02ee
+Author: AlexFan <sijin.fan@gmail.com>
+Date:   Mon Aug 5 16:05:01 2019 +1200
+
+    CharacterSKillDash
+
+commit 388cbb978a1d59949005e6e4b3148b9d1bb230c6
+Author: MDS\darren.lit7358 <kitemax243@gmail.com>
+Date:   Mon Aug 5 15:39:40 2019 +1200
+
+    no message
+
+commit 2a7103bfaa44da0a0864fa1b1e6bcfc6ccd9b864
+Author: AlexFan <sijin.fan@gmail.com>
+Date:   Mon Aug 5 15:35:21 2019 +1200
+
+    Dummy Animation
+    Character Run and Taken Damage Animation
+
+commit 0522c80a66c1c151e7ca571282feaf0a30e81a2c
+Merge: 63e21f5 87084f0
+Author: MDS\darren.lit7358 <kitemax243@gmail.com>
+Date:   Mon Aug 5 15:18:12 2019 +1200
+
+    no message
+
+commit 63e21f5144b3341dee1169cb1ff0f1294404ea7f
+Merge: 20c0593 c6bf7fb
+Author: MDS\darren.lit7358 <kitemax243@gmail.com>
+Date:   Mon Aug 5 15:15:57 2019 +1200
+
+    Merge branch 'Georgina' of https://github.com/RyouMisakl/Game into develop
+    
+    # Conflicts:
+    #       Content/ThirdPersonBP/Maps/Level-01/Hub.umap
+    #       Content/ThirdPersonBP/Maps/Level-01/Indoor.umap
+    #       Content/ThirdPersonBP/Maps/Level-01/Layout.umap
+    #       Content/ThirdPersonBP/Maps/Levels/Tutorial.umap
+    #       Content/ThirdPersonBP/Maps/MainMenu.umap
+
+commit 87084f0d35de5b92d491a41f85b53c0b7fbf1f8f
+Author: GeorginaWang <georginawxy@gmail.com>
+Date:   Mon Aug 5 15:15:05 2019 +1200
+
+    tutorial level changed
+
+commit e2397a41c7134887a2a752e79b2874e4cd2a4012
+Author: GeorginaWang <georginawxy@gmail.com>
+Date:   Mon Aug 5 13:21:03 2019 +1200
+
+    Level_B
+
+commit 05d6af52e9678411be65a63474e66926f5b1ad1e
+Merge: c6bf7fb 46491f7
+Author: GeorginaWang <georginawxy@gmail.com>
+Date:   Mon Aug 5 13:08:29 2019 +1200
+
+    LEVEL
+
+commit 46491f7ab67840e21c75ba2ebf3071c2724ff743
+Author: MDS\luke.mcc6424 <luke.henry.mcc@gmail.com>
+Date:   Mon Aug 5 13:07:17 2019 +1200
+
+    new level outside02 includes lots of vegetation and rocks, currently disorganized
+
+commit 20c0593a5a6a2c8e917eaf22ed6f84c8f413c103
+Author: MDS\darren.lit7358 <kitemax243@gmail.com>
+Date:   Mon Aug 5 11:35:38 2019 +1200
+
+    temp mission quest package added will be remove later
+
+commit c6bf7fb2e6e58a9610009a780924a2db80afd7ef
+Author: GeorginaWang <georginawxy@gmail.com>
+Date:   Fri Aug 2 12:58:32 2019 +1200
+
+    HUD LEVEL LAYOUT
+
+commit 1fcac0d4f68233b566e172be7f386e7ef3741189
+Author: GeorginaWang <georginawxy@gmail.com>
+Date:   Fri Aug 2 11:25:16 2019 +1200
+
+    Level Layout
+
+commit 26d7c8ef4a2166dcfb6e1359a1c393dde9d5395f
+Author: GeorginaWang <georginawxy@gmail.com>
+Date:   Fri Aug 2 11:15:21 2019 +1200
+
+    Hud level layout
+
+commit ad4d5324f209374cbbedf68e9f2f53ec7c98c730
+Author: GeorginaWang <georginawxy@gmail.com>
+Date:   Fri Aug 2 10:32:54 2019 +1200
+
+    Levels
+
+commit 1d2e8fae6a7963b3f27e25ff25606f37c550001f
+Author: GeorginaWang <georginawxy@gmail.com>
+Date:   Thu Aug 1 18:35:09 2019 +1200
+
+    Hud level
+
+commit 8aa58b287457ea4f6aac5d3866da4fd7cf11eea6
+Author: GeorginaWang <georginawxy@gmail.com>
+Date:   Thu Aug 1 18:33:19 2019 +1200
+
+    HUD Level layout
+
+commit 2e2c528d98641cac5a3234f66ef3e8d172099d7c
+Author: MDS\luke.mcc6424 <luke.henry.mcc@gmail.com>
+Date:   Thu Aug 1 17:48:28 2019 +1200
+
+    New map "Outside02" plus new assets, currently disorganised.
+
+commit 3e56b6c90a0196b02fc7046be0da5399cf3f216a
+Author: MDS\darren.lit7358 <kitemax243@gmail.com>
+Date:   Thu Aug 1 16:26:33 2019 +1200
+
+    side walk when lock on is added
+
+commit 95980a1587ba2f08f27b4ddb4831ae366a8074e4
+Merge: 4f7aa89 8a77598
+Author: MDS\darren.lit7358 <kitemax243@gmail.com>
+Date:   Thu Aug 1 12:56:19 2019 +1200
+
+    dodge is now working in c++
+
+commit 15c59c6bb5ea2445d73cb8830d02cd8afd8ca801
+Author: GeorginaWang <georginawxy@gmail.com>
+Date:   Thu Aug 1 11:50:35 2019 +1200
+
+    Hub level layout
+
+commit 4f7aa8999b0bbd96d537a2de72da86101254d2b8
+Author: MDS\darren.lit7358 <kitemax243@gmail.com>
+Date:   Thu Aug 1 10:04:47 2019 +1200
+
+    no message
+
+commit 8a7759847054f17f5b6855cd60c13ba3e35e08e0
+Author: RyouMisakl <33336762+RyouMisakl@users.noreply.github.com>
+Date:   Wed Jul 31 21:23:34 2019 +0800
+
+    added dodge to c++ but unable to test it out due to visual studio problem unable to solve it
+
+commit f15b86ce695e403c7755e8a5802346dfdbb565b7
+Author: MDS\darren.lit7358 <kitemax243@gmail.com>
+Date:   Tue Jul 30 17:16:50 2019 +1200
+
+    lower the skill damage cost because of 2 sword on hand
+
+commit 5229e3a353eec2268b3849c759ec39f60c8e7425
+Merge: 6195eee c86fd56
+Author: MDS\darren.lit7358 <kitemax243@gmail.com>
+Date:   Tue Jul 30 16:22:46 2019 +1200
+
+    Merge branch 'Alex' of https://github.com/RyouMisakl/Game into develop
+    
+    added the new animation into game and made slight changes
+
+commit c86fd566c2fa8f474ddffa9853b35ab9b0419b2b
+Author: AlexFan <sijin.fan@gmail.com>
+Date:   Tue Jul 30 14:25:22 2019 +1200
+
+    Character Animations
+
+commit 7b2dcbea198dfb9457fca51b367135d4166fe696
+Merge: e18e562 a334a0c
+Author: AlexFan <sijin.fan@gmail.com>
+Date:   Mon Jul 29 15:16:04 2019 +1200
+
+    Merge branch 'Georgina' of https://github.com/RyouMisakl/Game into Alex
+
+commit a334a0cf83152d6c7539e3c93403989bf89c5691
+Author: GeorginaWang <georginawxy@gmail.com>
+Date:   Mon Jul 29 14:47:28 2019 +1200
+
+    Level LAYOUT IDEA
+
+commit 6195eee640111add5f5f6fd96dab1fa8781356bb
+Merge: 3827e63 e18e562
+Author: MDS\darren.lit7358 <kitemax243@gmail.com>
+Date:   Mon Jul 29 11:55:35 2019 +1200
+
+    got half the animation
+
+commit e043a42c2f27fc06ea93c5d76c61164eca908e0c
+Author: GeorginaWang <georginawxy@gmail.com>
+Date:   Mon Jul 29 11:55:22 2019 +1200
+
+    Environment Greybox Layout
+
+commit 3827e635b8182884b4cbd98411f1e138925247ae
+Author: MDS\darren.lit7358 <kitemax243@gmail.com>
+Date:   Mon Jul 29 10:51:14 2019 +1200
+
+    no message
+
+commit d03b422546c4b24f36141ef9bb6576eb0bbbd8bf
+Merge: 2874ace d881016
+Author: MDS\darren.lit7358 <kitemax243@gmail.com>
+Date:   Mon Jul 29 09:49:54 2019 +1200
+
+    Merge branch 'Georgina' of https://github.com/RyouMisakl/Game into develop
+
+commit d881016f769952332b10306ed931972a166e5fde
+Author: MDS\darren.lit7358 <kitemax243@gmail.com>
+Date:   Mon Jul 29 09:49:24 2019 +1200
+
+    added hub
+
+commit e18e562f366d910891af1318ea989d1c09be2873
+Merge: 343c5ed c15ccfc
+Author: AlexFan <sijin.fan@gmail.com>
+Date:   Fri Jul 26 17:25:04 2019 +1200
+
+    Merge branch 'Georgina' of https://github.com/RyouMisakl/Game into Alex
+    
+    # Conflicts:
+    #       Content/ThirdPersonBP/Maps/Level-01/Outside.umap
+    
+    New animations
+
+commit 2874ace1bc93741a449b49007f5506e072bbf9b4
+Merge: 1bfe311 c15ccfc
+Author: MDS\darren.lit7358 <kitemax243@gmail.com>
+Date:   Fri Jul 26 11:46:47 2019 +1200
+
+    no message
+
+commit c15ccfc656692b4930badc98fe3d4d64fc42245f
+Author: GeorginaWang <georginawxy@gmail.com>
+Date:   Thu Jul 25 18:04:02 2019 +1200
+
+    Tutorial Level and starting point layout done
+
+commit 1bfe311bb764b68451aa39129cea45a7e64e7d81
+Author: MDS\darren.lit7358 <kitemax243@gmail.com>
+Date:   Thu Jul 25 17:50:08 2019 +1200
+
+    change sta
+
+commit 9aff80540e77830674d7ec6b95a2de7edfc4ab95
+Author: GeorginaWang <georginawxy@gmail.com>
+Date:   Thu Jul 25 15:14:46 2019 +1200
+
+    Pathway test
+
+commit 343c5ede0103b4131943e795b468521387267818
+Author: AlexFan <sijin.fan@gmail.com>
+Date:   Thu Jul 25 14:50:09 2019 +1200
+
+    Idle
+
+commit 82c95abccfc248b7d8f0b6553a61bece3f624eba
+Merge: 3c27f2f 1ca844c
+Author: AlexFan <sijin.fan@gmail.com>
+Date:   Thu Jul 25 14:11:41 2019 +1200
+
+    Merge branch 'Georgina' of https://github.com/RyouMisakl/Game into Alex
+    
+    # Conflicts:
+    #       Content/StarterContent/Architecture/Floor_400x400.uasset
+
+commit 3c27f2fea3c1bab959e202265cb6915d5c72ffc7
+Author: MDS\darren.lit7358 <kitemax243@gmail.com>
+Date:   Thu Jul 25 13:34:00 2019 +1200
+
+    change cinematic but some bug is still there
+
+commit 1ca844cc28c54787a9744c3bef8c2578ba1cdd6d
+Author: GeorginaWang <georginawxy@gmail.com>
+Date:   Thu Jul 25 12:17:54 2019 +1200
+
+    Outside level
+
+commit 98910c7e9ffde574f6ccfe2862ad4488bc21c4a7
+Author: GeorginaWang <georginawxy@gmail.com>
+Date:   Thu Jul 25 12:14:56 2019 +1200
+
+    Environment
+
+commit e7338ce02ce5a0e7b9f275135fe21edfe468c9f3
+Author: GeorginaWang <georginawxy@gmail.com>
+Date:   Thu Jul 25 12:13:37 2019 +1200
+
+    Environment
+
+commit 273dd47a21f9c8a8f15f97bcf9d051a0a51a8e3f
+Merge: 4c90bac c3c7f81
+Author: GeorginaWang <georginawxy@gmail.com>
+Date:   Thu Jul 25 12:13:07 2019 +1200
+
+    Merge branch 'Georgina' of https://github.com/RyouMisakl/Game into Georgina
+    
+    # Conflicts:
+    #       Content/EnvironmentAssets/Level_A/Meshes/Bamboo.uasset
+    #       Content/StarterContent/Architecture/Floor_400x400.uasset
+
+commit 4c90bacbe8f0ba0622c28d1be244da1926cc9067
+Author: GeorginaWang <georginawxy@gmail.com>
+Date:   Thu Jul 25 12:12:04 2019 +1200
+
+    Environment outside pathway
+
+commit 0e033a44ba9b354ffad2aae434a4254276f0ed48
+Author: GeorginaWang <georginawxy@gmail.com>
+Date:   Thu Jul 25 12:10:23 2019 +1200
+
+    Environment outside pathway
+
+commit 31c0ad8055ace5b66a1a9433f2e2a392678c7ad7
+Author: MDS\darren.lit7358 <kitemax243@gmail.com>
+Date:   Wed Jul 24 13:26:18 2019 +1200
+
+    added new player stats in c++
+
+commit c3c7f810f68b208f73c3ce6a1ea448c599953c5d
+Merge: 2c6e29a dfb7cdd
+Author: GeorginaWang <georginawxy@gmail.com>
+Date:   Tue Jul 23 14:10:16 2019 +1200
+
+    Merge branch 'master' of https://github.com/RyouMisakl/Game into Georgina
+    
+    # Conflicts:
+    #       Content/StarterContent/Architecture/Floor_400x400.uasset
+
+commit 656f0ee991112bce7639e22fb3c0521c686f3911
+Merge: 3b57cd5 dfb7cdd
+Author: MDS\darren.lit7358 <kitemax243@gmail.com>
+Date:   Tue Jul 23 10:55:16 2019 +1200
+
+    no message
+
+commit 3b57cd517f82b09ba3e5f68889a65cee9b534666
+Merge: 39f275c 663a17c
+Author: MDS\darren.lit7358 <kitemax243@gmail.com>
+Date:   Tue Jul 23 10:54:42 2019 +1200
+
+    Merge branch 'feature/Moving_damage_boss_from_blueprint_to_c++' into develop
+
+commit 663a17ce37a17480d16950e19707a53a3f36536a
+Author: MDS\darren.lit7358 <kitemax243@gmail.com>
+Date:   Tue Jul 23 10:53:59 2019 +1200
+
+    complete
+
+commit cf4f93431b65cfeaee037eac9302907f9a92acc5
+Author: MDS\darren.lit7358 <kitemax243@gmail.com>
+Date:   Mon Jul 22 17:05:11 2019 +1200
+
+    added check function to c++ and remove from blueprint
+
+commit 2c6e29ad731f805ac9154be9c0de34580b7a1416
+Author: GeorginaWang <georginawxy@gmail.com>
+Date:   Mon Jul 22 15:11:07 2019 +1200
+
+    Clean Environment Assets
+
+commit a3935297da9b975eb6d00559bc4d4921fcf65f43
+Author: GeorginaWang <georginawxy@gmail.com>
+Date:   Mon Jul 22 15:04:38 2019 +1200
+
+    Clean Environment  Folder
+
+commit bddf6bc855f1e11d3e4f978828ae3ce10d08186b
+Author: GeorginaWang <georginawxy@gmail.com>
+Date:   Mon Jul 22 14:59:12 2019 +1200
+
+    Clean Environment folder
+
+commit cbc0d7b33a1a07823160dffaf689fdeb11430365
+Author: GeorginaWang <georginawxy@gmail.com>
+Date:   Mon Jul 22 14:45:40 2019 +1200
+
+    clean the folder for environment
+
+commit 9dcf825cfad4c500dec23b04ef821d60ce79151e
+Author: GeorginaWang <georginawxy@gmail.com>
+Date:   Mon Jul 22 14:43:26 2019 +1200
+
+    clean environment folder
+
+commit 171d812750849cebbc806e3a0aed464e57ade774
+Author: GeorginaWang <georginawxy@gmail.com>
+Date:   Mon Jul 22 14:39:18 2019 +1200
+
+    clean the environment folder
+
+commit bc685556f6065d18a654be1e22799b78106f5f24
+Author: GeorginaWang <georginawxy@gmail.com>
+Date:   Mon Jul 22 14:32:08 2019 +1200
+
+    change folder environment
+
+commit dfb7cdd93a50cde953951a57e316584f152fcbf3
+Author: HarryFanHe <jiefei28@gmail.com>
+Date:   Sat Jul 20 23:46:12 2019 +1200
+
+    Upload mask parts ( in prop file)
+
+commit 0f1595fdddce960537e72d2f6a28f7e362311b74
+Author: MDS\darren.lit7358 <kitemax243@gmail.com>
+Date:   Fri Jul 19 10:32:18 2019 +1200
+
+    half done
+
+commit b6ad446fdd4add372a2988232ece1596a45b49c8
+Merge: dd2236f 39f275c
+Author: GeorginaWang <georginawxy@gmail.com>
+Date:   Thu Jul 18 16:28:27 2019 +1200
+
+    Merge branch 'Georgina' of https://github.com/RyouMisakl/Game into Georgina
+
+commit dd2236f30c0b216a0b4d6f94bc74405c4f5086f8
+Author: MDS\darren.lit7358 <kitemax243@gmail.com>
+Date:   Thu Jul 18 15:49:38 2019 +1200
+
+    A new Start
+
+commit 39f275c3814090b5224df67f20257117f0b3ba48
+Author: MDS\darren.lit7358 <kitemax243@gmail.com>
+Date:   Thu Jul 18 15:49:38 2019 +1200
+
+    A new Start
+
+commit d09390cd7a9ec03cbd17ed1bc5a3a8154ec53e47
+Author: RyouMisakl <33336762+RyouMisakl@users.noreply.github.com>
+Date:   Thu Jul 18 15:46:25 2019 +1200
+
+    Initial commit
